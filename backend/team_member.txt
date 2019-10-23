@@ -1,0 +1,47 @@
+Virat_Kohli Batsman India
+Rohit_Sharma Batsman India
+Hardik_Pandya Batting_All_rounder India
+MSD  Wicket_Keeper_Batsman India
+KL_Rahul Batsman India
+Ravindra_Jadeja Batting_All_Rounder India
+Krunal_Pandya Batting All rounder India
+Amit_Misra Bowler India
+Md_Sami Bowler India
+Jasmit_Bumrah Bowler India
+Bhubaneswar_Kumar Bowler India
+
+
+
+Babar_Azam Batsman Pakistan
+Sarfaraz_Ahmed Batsman Pakistan
+Ajay_paudel Batsman Pakistan
+Haren_Churungoo Captain Pakistan
+Fakar_Zaman Batsman Pakistan
+Hassan_Ali Bowler Pakistan
+Shaheen_Afridi Bowler Pakistan
+Akshay_kanna Bowler Pakistan
+Mahesh_Pawate Bowling_All_rounder Pakistan
+Sumanta_Malik Batsman Pakistan
+Wahab_Riaz Bowler Pakistan
+Haren Captain Masai
+Rahukl VC Masai
+  Masai
+  Masai
+  Masai
+  Masai
+  Masai
+  Masai
+  Masai
+  Masai
+  Masai
+Haren Captain Masai
+Rahukl VC Masai
+  Masai
+  Masai
+  Masai
+  Masai
+  Masai
+  Masai
+  Masai
+  Masai
+  Masai
